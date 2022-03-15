@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kjs29
 - 👀 I’m interested in ... making interesting websites, applications
-- 🌱 I’m currently learning ... HTML and CSS
-- 💞️ I’m looking to collaborate on ... how to clone some websites!
+- 🌱 I’m currently learning ... HTML, CSS, and I am learning Kotlin.
+- 💞️ I’m looking to collaborate on ... learning Kotlin together.
 - 📫 How to reach me ... growingwintegrity@gmail.com
 
 <!---
