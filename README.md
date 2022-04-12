@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kjs29
 - 👀 I’m interested in ... making interesting websites, applications
-- 🌱 I’m currently learning ... HTML, CSS, and I am learning Kotlin.
-- 💞️ I’m looking to collaborate on ... learning Javascript together.
+- 🌱 I’m currently learning ... HTML, CSS, JS, and C language
+- 💞️ I’m looking to collaborate on ... learning HTML, CSS, Javascript or C language together.
 - 📫 How to reach me ... growingwintegrity@gmail.com
 
 <!---
