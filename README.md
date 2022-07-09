@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kjs29
-- 👀 I’m interested in ... making interesting websites, applications
-- 🌱 I’m currently learning ... HTML, CSS, JS, C/C++ language, and Python
-- 💞️ I’m looking to collaborate on ... learning HTML, CSS, Javascript, C/C++ or Python language together.
+- 👀 I’m interested in learning Python, and what Python can create.
+- 🌱 I’m currently learning Python 🐍
+- 💞️ I’m looking to collaborate on any Python projects.
 - 📫 How to reach me ... growingwintegrity@gmail.com
 
 <!---
