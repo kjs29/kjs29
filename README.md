@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python 🐍
 - ⓝ I'm currently working on one small game project called 'N back'.
 Here's what the game looks like.
-![nback](https://user-images.githubusercontent.com/96529477/183818195-98dc6d00-81fa-48e4-97f3-f1974390c09f.gif)
+![nbackgame](https://user-images.githubusercontent.com/96529477/183874434-191ef62f-4772-48af-aa38-af2891f4ff28.gif)
+
 
 
 - 💞️ I’m looking to collaborate on any Python projects.
