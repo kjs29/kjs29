@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Python 🐍
 - ⓝ I'm currently working on one small game project called 'N back'.
 Here's a link to what the game looks like.
-![title](https://user-images.githubusercontent.com/96529477/183817575-a52ec14d-2db1-46e6-8943-fdce36ec4605.GIF)
-https://user-images.githubusercontent.com/96529477/183815556-5c9680cf-016b-41a6-adc1-1fddde136268.mp4
+![nback](https://user-images.githubusercontent.com/96529477/183818195-98dc6d00-81fa-48e4-97f3-f1974390c09f.gif)
+
+
 - 💞️ I’m looking to collaborate on any Python projects.
 - 📫 How to reach me <E-mail> jsk.jinsung@gmail.com
 
