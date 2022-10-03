@@ -20,8 +20,7 @@ Here's what the game looks like.
 
 # <em>Dual N-back(Second game)</em>
 
-
-![dualnbackplay](https://user-images.githubusercontent.com/96529477/192568363-47d565f8-3ad8-48e6-9f85-c6ee7f9a5742.gif)
+![screen2](https://user-images.githubusercontent.com/96529477/193591075-a14903b6-7845-4407-9dec-da86fa66a946.gif)
 
 
 <!---
