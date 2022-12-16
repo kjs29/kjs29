@@ -8,7 +8,7 @@
 - 📫 How to reach me <E-mail> jsk.jinsung@gmail.com
 
   
-Here's what the game looks like.
+Here's what my projects look like.
 
 # N back Game - [Link](https://github.com/kjs29/nback/blob/master/README.md)
 
