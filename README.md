@@ -10,7 +10,7 @@
   
 Here's what the game looks like.
 
-# <em>N-back(First game)</em>
+# N back Game - [Link](https://github.com/kjs29/nback/blob/master/README.md)
 
 <p float="left">
   <img width="320" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png">
@@ -18,7 +18,7 @@ Here's what the game looks like.
   <img width="320" alt="Screenshot 2022-12-15 at 5 27 47 PM" src="https://user-images.githubusercontent.com/96529477/207994648-a2cd124c-866c-49d5-862e-ff3da6b033f1.png">
 </p>
 
-# <em>Dual N-back(Second game)</em>
+# Dual N back - [Link](https://github.com/kjs29/dual_nback)
 
 ![screen2](https://user-images.githubusercontent.com/96529477/193591075-a14903b6-7845-4407-9dec-da86fa66a946.gif)
 
