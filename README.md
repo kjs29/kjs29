@@ -1,10 +1,9 @@
 - 👋 Hi, My name is Jinsung Kim @kjs29
 - 👀 I’m interested in learning Python, and what Python can create.
-- 🌱 I’m currently learning Python, Django 🐍
-- ⓝ I just finished making the second game called 'Dual N-back' using pygame module.
-- 🧠 Dual N-back is already pretty famous brain trainer and it is helpful to improve one's working memory.
+- 🌱 I’m currently learning Python 🐍, creating websites using Django.
+- 🧠 Check out games I created using Python.
 - 🎲 Game download : https://kjs29.itch.io/
-- 💞️ I’m looking to collaborate on any Python projects.
+- 💞️ I’m looking to collaborate on any Django projects.
 - 📫 How to reach me <E-mail> jsk.jinsung@gmail.com
 
   
