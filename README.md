@@ -9,7 +9,7 @@
   
 Here's what my projects look like.
 
-# N back Game - [Link](https://github.com/kjs29/nback/blob/master/README.md)
+# N back Game - [https://github.com/kjs29/nback/](https://github.com/kjs29/nback/blob/master/README.md)
 
 <p float="left">
   <img width="250" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png">
