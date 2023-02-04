@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Jinsung Kim @kjs29
 - 👀 I’m interested in learning Python, and what Python can create.
-- 🌱 I’m currently learning Python 🐍, creating websites using Django.
+- 🌱 I’m currently working on creating blog websites using Django.
 - 🧠 Check out games I created using Python.
 - 🎲 Game download : https://kjs29.itch.io/
 - 💞️ I’m looking to collaborate on any Django projects.
