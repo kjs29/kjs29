@@ -9,7 +9,7 @@
   
 Here's what my projects look like.
 
-# N back Game - [https://github.com/kjs29/nback/](https://github.com/kjs29/nback/blob/master/README.md)
+# N back Game - [Github page](https://github.com/kjs29/nback/blob/master/README.md)
 
 <p float="left">
   <img width="250" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png">
@@ -17,7 +17,7 @@ Here's what my projects look like.
   <img width="250" alt="Screenshot 2022-12-15 at 5 27 47 PM" src="https://user-images.githubusercontent.com/96529477/207994648-a2cd124c-866c-49d5-862e-ff3da6b033f1.png">
 </p>
 
-# Dual N back - [https://github.com/kjs29/dual_nback](https://github.com/kjs29/dual_nback)
+# Dual N back - [Github page](https://github.com/kjs29/dual_nback)
 
 <p float="left">
   <img width="250" alt="Screenshot 2022-12-16 at 5 19 31 AM" src="https://user-images.githubusercontent.com/96529477/208098017-426e2adf-437c-43aa-b909-900e7e3c045f.png">
