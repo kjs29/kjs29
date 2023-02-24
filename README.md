@@ -9,7 +9,7 @@
   
 My projects ↯
 
-# N back Game - [Github page](https://github.com/kjs29/nback/blob/master/README.md)
+# N back - [Github page](https://github.com/kjs29/nback/blob/master/README.md)
 
 <details>
   <summary>View screenshots</summary>
