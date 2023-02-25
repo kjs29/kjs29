@@ -9,7 +9,11 @@
   
 My projects ↯
 
-# N back - [Github page](https://github.com/kjs29/nback/blob/master/README.md)
+# N back
+
+A game to improve working memory
+  
+[Github page](https://github.com/kjs29/nback/blob/master/README.md) / [Game download](https://kjs29.itch.io/nback)
 
 <details>
   <summary>View screenshots</summary>
@@ -22,7 +26,11 @@ My projects ↯
 
 </details>
 
-# Dual N back - [Github page](https://github.com/kjs29/dual_nback)
+# Dual N back
+
+Similar to first game, but much harder
+  
+[Github page](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
 
 <details>
   <summary>View screenshots</summary>
@@ -38,10 +46,14 @@ My projects ↯
   </p>
 </details>
 
-# Make Your Bed In The Morning - [Github page](https://github.com/kjs29/how-to-make-a-social-media-website)
-
-# Calgarymobilewills.ca - [Website link](https://www.calgarymobilewills.ca)
+# Make Your Bed In The Morning
   
+[Github page](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
+
+# Calgarymobilewills.ca
+  
+[Website link](https://www.calgarymobilewills.ca)
+
 <!---
 kjs29/kjs29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
