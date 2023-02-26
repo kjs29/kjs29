@@ -13,7 +13,7 @@ My projects ↯
 
 A game to improve working memory
   
-[Github page](https://github.com/kjs29/nback/blob/master/README.md) / [Game download](https://kjs29.itch.io/nback)
+[Github page](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
 
 <details>
   <summary>View screenshots</summary>
