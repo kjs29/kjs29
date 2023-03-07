@@ -11,9 +11,7 @@ My projects ↯
 
 # N back
 
-A game to improve working memory
-  
-[Github page](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
+A game to improve working memory - [Github page](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
 
 <details>
   <summary>View screenshots</summary>
@@ -28,9 +26,7 @@ A game to improve working memory
 
 # Dual N back
 
-Similar to first game, but much harder
-  
-[Github page](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
+Similar to the first game, but much harder - [Github page](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
 
 <details>
   <summary>View screenshots</summary>
@@ -45,14 +41,26 @@ Similar to first game, but much harder
     <img width="250" alt="image" src="https://user-images.githubusercontent.com/96529477/208099337-436c8701-1d6d-4e48-a410-948d7ac37f42.png">
   </p>
 </details>
+  
+# Calgarymobilewills.ca 
+  
+A will service business website - [Website link](https://www.calgarymobilewills.ca)
+
+<details>
+
+  <summary>View screenshots</summary>
+  
+  <p float="left">
+    <img width="400" src="https://user-images.githubusercontent.com/96529477/223351110-b6e8828e-8af6-4361-8935-dabaa7b3866f.png" alt="calgarymobilewills home top">
+    <img width="400" alt="image" src="https://user-images.githubusercontent.com/96529477/223351868-7acc4d53-9210-480e-a799-374c850d61e0.png" alt="calgarymobilewills home services and prices">
+    <img width="400" alt="image" src="https://user-images.githubusercontent.com/96529477/223352696-a9a159f9-e429-4416-b26c-96405fe131c9.png" alt="calgarymobilewills home common questions">
+    <img width="400" src="https://user-images.githubusercontent.com/96529477/223351955-7179393e-eab4-4d33-b612-6f4db49bc02a.png" alt="calgarymobilewills home contact">
+  </p>
+</details>
 
 # Make Your Bed In The Morning
   
-[Github page](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
-
-# Calgarymobilewills.ca
-  
-[Website link](https://www.calgarymobilewills.ca)
+A website to promote making bed in the morning - [Github page](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
 
 <!---
 kjs29/kjs29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
