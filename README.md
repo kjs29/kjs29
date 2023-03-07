@@ -1,11 +1,8 @@
-- 👋 Hi, My name is Jinsung Kim @kjs29
-- 👀 I’m interested in learning Python, and what Python can create.
-- 🌱 I’m currently working on creating social media clone using Django.
-- 🧠 Check out my games made with Python.
+- 😊 Hi, My name is Jinsung Kim @kjs29
+- 🌟 I am passionate about solving problems.
+- 📄 Will business : https://calgarymobilewills.ca
 - 🎲 Game download : https://kjs29.itch.io/
-- 💞️ I’m looking to collaborate on any Django projects.
 - 📫 How to reach me <E-mail> jsk.jinsung@gmail.com
-
   
 My projects ↯
 
