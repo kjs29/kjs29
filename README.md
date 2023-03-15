@@ -6,9 +6,9 @@
   
 My projects ↯
 
-# N back
+# 1. N back
 
-A game to improve working memory - [Github page (README)](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
+## A game to improve working memory - [Github page (README)](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
 
 <details>
   <summary>View screenshots</summary>
@@ -21,9 +21,9 @@ A game to improve working memory - [Github page (README)](https://github.com/kjs
 
 </details>
 
-# Dual N back
+# 1.5 Dual N back
 
-Similar to the first game, but much harder - [Github page (README)](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
+## Similar to the first game, but much harder - [Github page (README)](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
 
 <details>
   <summary>View screenshots</summary>
@@ -39,9 +39,9 @@ Similar to the first game, but much harder - [Github page (README)](https://gith
   </p>
 </details>
   
-# Calgarymobilewills.ca 
+# 2. Calgarymobilewills.ca 
   
-A will service business website - [Website link](https://www.calgarymobilewills.ca)
+## A will service business website - [Website link](https://www.calgarymobilewills.ca)
 
 <details>
 
@@ -55,9 +55,9 @@ A will service business website - [Website link](https://www.calgarymobilewills.
   </p>
 </details>
 
-# Make Your Bed In The Morning
+# 3. Make Your Bed In The Morning
   
-A website to promote making bed in the morning - [Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
+## A website to promote making bed in the morning - [Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
   
 <details>
   
