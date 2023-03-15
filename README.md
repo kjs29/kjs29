@@ -6,7 +6,7 @@
   
 My projects ↯
 
-# 1. N back
+# N back
 
 ## A game to improve working memory - [Github page (README)](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
 
@@ -21,7 +21,7 @@ My projects ↯
 
 </details>
 
-# 1.5 Dual N back
+# Dual N back
 
 ## Similar to the first game, but much harder - [Github page (README)](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
 
@@ -39,7 +39,7 @@ My projects ↯
   </p>
 </details>
   
-# 2. Calgarymobilewills.ca 
+# Calgarymobilewills.ca 
   
 ## A will service business website - [Website link](https://www.calgarymobilewills.ca)
 
@@ -55,7 +55,7 @@ My projects ↯
   </p>
 </details>
 
-# 3. Make Your Bed In The Morning
+# Make Your Bed In The Morning
   
 ## A website to promote making bed in the morning - [Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
   
