@@ -9,7 +9,7 @@ My projects ↯
 ## A game to improve working memory - [Github page (README)](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
 
 <details>
-  <summary>View screenshots</summary>
+  <summary>Screenshots</summary>
   
   <p float="left">
     <img width="250" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png">
@@ -24,7 +24,7 @@ My projects ↯
 ## Similar to the first game, but much harder - [Github page (README)](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
 
 <details>
-  <summary>View screenshots</summary>
+  <summary>Screenshots</summary>
   
   
   <p float="left">
@@ -43,7 +43,7 @@ My projects ↯
 
 <details>
 
-  <summary>View screenshots</summary>
+  <summary>Screenshots</summary>
   
   <p float="left">
     <img width="400" src="https://user-images.githubusercontent.com/96529477/223351110-b6e8828e-8af6-4361-8935-dabaa7b3866f.png" alt="calgarymobilewills home top">
@@ -59,7 +59,7 @@ My projects ↯
   
 <details>
   
-  <summary>View screenshots</summary>
+  <summary>Screenshots</summary>
   
   <p float="left">
     <img width="400" alt="make your bed in the morning screenshot homepage" src="https://user-images.githubusercontent.com/96529477/224619056-9fa31e50-9f9f-4db6-876d-9a33c737c10b.png">
