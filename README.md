@@ -28,7 +28,7 @@
 
 <br>
   
-<h2 align="left">My projects</h2>
+<h2 align="left">My Projects</h2>
 
 | 🕹️ Brain puzzle game | 🎯 Brain puzzle game Ver.2 | 📝 Legal services business website | 🛏️ Social media platform|
 |---------|---------|---------|---------|
