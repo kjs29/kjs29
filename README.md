@@ -38,17 +38,6 @@
 
 <br>
 
- 
-<img src="https://github-readme-stats.vercel.app/api?username=kjs29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-<br><br>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kjs29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="250" alt="languages graph"  />
-<br><br>
-  
-<img src="https://streak-stats.demolab.com?user=kjs29&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
-
-<br>
-
   
   
 <!---
