@@ -4,9 +4,9 @@
   
 My projects ↯
 
-# N back
+# A brain puzzle game - N Back
 
-## A game to improve working memory - [Github page (README)](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
+## Increase your IQ
 
 <details>
   <summary>Screenshots</summary>
@@ -19,9 +19,11 @@ My projects ↯
 
 </details>
 
-# Dual N back
+[Github page (README)](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
+  
+# A brain puzzle game Ver.2 - Dual N back
 
-## Similar to the first game, but much harder - [Github page (README)](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
+## Similar to the first game, but much harder
 
 <details>
   <summary>Screenshots</summary>
@@ -37,9 +39,9 @@ My projects ↯
   </p>
 </details>
   
-# Calgary Mobile Wills
+[Github page (README)](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
   
-## Legal services business website - [Website link](https://www.calgarymobilewills.ca)
+# Legal Services business website - Calgary Mobile Wills
 
 <details>
 
@@ -52,10 +54,12 @@ My projects ↯
     <img width="400" src="https://user-images.githubusercontent.com/96529477/223351955-7179393e-eab4-4d33-b612-6f4db49bc02a.png" alt="calgarymobilewills home contact">
   </p>
 </details>
-
-# Make Your Bed In The Morning
   
-## A website to promote making bed in the morning - [Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
+[Website link](https://www.calgarymobilewills.ca)
+
+# Social media platform - Make Your Bed In The Morning
+  
+## A website to encourage people to make their bed in the morning
   
 <details>
   
@@ -68,6 +72,7 @@ My projects ↯
     <img width="400" alt="make your bed in the morning screenshot about page" src="https://user-images.githubusercontent.com/96529477/224620300-8b1bfbf3-8d33-4aba-a00e-df2e4f05a640.png">
   </p>
 
+[Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
 <!---
 kjs29/kjs29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
