@@ -6,6 +6,11 @@ My projects ⬇️
 
 # 🎯 Brain puzzle game - N Back
 
+  
+<div style="border: 1px solid black; padding: 10px;">
+  This is some content inside a border.
+</div>
+  
 ### <em>Increase your IQ</em>
 
 <details>
