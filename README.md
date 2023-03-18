@@ -1,12 +1,13 @@
 <div align="center" style="padding: 20px; margin: 20px;">
 
 # 😊 Hi, My name is Jinsung Kim
+
 <p>🌟 I am passionate about solving problems.</p>
-<p>🔭 I’m currently working on learning web development.</p>
+
+<p>🌱 I’m currently learning web development</p>
 
 
-<br>
-
+  
 ## My Tech Stack
   
 <div align="center">
@@ -41,7 +42,10 @@
 
 <br>
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/jinsungk/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+</div>
+  
 <!---
 kjs29/kjs29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
