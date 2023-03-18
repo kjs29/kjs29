@@ -6,11 +6,11 @@ My projects ↯
 
 # A brain puzzle game - N Back
 
-## Increase your IQ
+### <em>Increase your IQ</em>
 
 <details>
   <summary>Screenshots</summary>
-  
+
   <p float="left">
     <img width="250" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png">
     <img width="250" alt="Screenshot 2022-12-15 at 5 26 31 PM" src="https://user-images.githubusercontent.com/96529477/207994639-78b21f5a-4a44-4dbb-b528-1039ab67cd8f.png">
@@ -23,7 +23,7 @@ My projects ↯
   
 # A brain puzzle game Ver.2 - Dual N back
 
-## Similar to the first game, but much harder
+### <em>Similar to the first game, but much harder</em>
 
 <details>
   <summary>Screenshots</summary>
@@ -43,6 +43,8 @@ My projects ↯
   
 # Legal Services business website - Calgary Mobile Wills
 
+### <em>Write your will, write your story</em>
+
 <details>
 
   <summary>Screenshots</summary>
@@ -59,7 +61,7 @@ My projects ↯
 
 # Social media platform - Make Your Bed In The Morning
   
-## A website to encourage people to make their bed in the morning
+### <em>A website to encourage people to make their bed in the morning</em>
   
 <details>
   
@@ -73,6 +75,7 @@ My projects ↯
   </p>
 
 [Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
+
 <!---
 kjs29/kjs29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
