@@ -39,7 +39,7 @@ My projects ↯
   
 # Calgarymobilewills.ca 
   
-## A will service business website - [Website link](https://www.calgarymobilewills.ca)
+## Legal services business website - [Website link](https://www.calgarymobilewills.ca)
 
 <details>
 
