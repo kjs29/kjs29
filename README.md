@@ -2,9 +2,9 @@
 - 🌟 I am passionate about solving problems.
 - 📫 How to reach me <E-mail> jsk.jinsung@gmail.com
   
-My projects ↯
+My projects ⬇️
 
-# A brain puzzle game - N Back
+# 🎯 Brain puzzle game - N Back
 
 ### <em>Increase your IQ</em>
 
@@ -21,9 +21,9 @@ My projects ↯
 
 [Github page (README)](https://github.com/kjs29/nback) / [Game download](https://kjs29.itch.io/nback)
   
-# A brain puzzle game Ver.2 - Dual N back
+# 🎯 Brain puzzle game Ver.2 - Dual N back
 
-### <em>Similar to the first game, but much harder</em>
+### <em>Similar to the first game, with more controllable settings</em>
 
 <details>
   <summary>Screenshots</summary>
@@ -41,7 +41,7 @@ My projects ↯
   
 [Github page (README)](https://github.com/kjs29/dual_nback) / [Game download](https://kjs29.itch.io/dualnback)
   
-# Legal Services business website - Calgary Mobile Wills
+# 🎯 Legal Services business website - Calgary Mobile Wills
 
 ### <em>Write your will, write your story</em>
 
@@ -59,7 +59,7 @@ My projects ↯
   
 [Website link](https://www.calgarymobilewills.ca)
 
-# Social media platform - Make Your Bed In The Morning
+# 🎯 Social media platform - Make Your Bed In The Morning
   
 ### <em>A website to encourage people to make their bed in the morning</em>
   
@@ -73,6 +73,7 @@ My projects ↯
     <img width="400" alt="make your bed in the morning screenshot detail page" src="https://user-images.githubusercontent.com/96529477/224620125-b97e4abf-6651-46f1-98f1-aab24eb0c4ca.png">
     <img width="400" alt="make your bed in the morning screenshot about page" src="https://user-images.githubusercontent.com/96529477/224620300-8b1bfbf3-8d33-4aba-a00e-df2e4f05a640.png">
   </p>
+</details>
 
 [Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) / [Website link](http://kjs3980.pythonanywhere.com)
 
