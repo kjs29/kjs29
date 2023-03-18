@@ -18,12 +18,12 @@
 <h2 align="left">My Tech Stack</h2>
   
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
 <br>
@@ -34,7 +34,7 @@
 |---------|---------|---------|---------|
 |<em>Increase your IQ</em>|<em>Similar to the first game, with more controllable settings</em>|<em>Write your will, write your story</em>|<em>If you want to change the world, start off by making your bed!</em>|
 |<a href="https://github.com/kjs29/nback"><img width="400" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png"></a>|<a href="https://github.com/kjs29/dual_nback"><img width="400" alt="Screenshot 2022-12-16 at 5 19 31 AM" src="https://user-images.githubusercontent.com/96529477/208098017-426e2adf-437c-43aa-b909-900e7e3c045f.png"></a>|<a href="https://www.calgarymobilewills.ca"><img width="400" src="https://user-images.githubusercontent.com/96529477/223351110-b6e8828e-8af6-4361-8935-dabaa7b3866f.png" alt="calgarymobilewills home top"></a>|<a href="https://kjs3980.pythonanywhere.com"><img width="400" alt="make your bed in the morning screenshot homepage" src="https://user-images.githubusercontent.com/96529477/224619056-9fa31e50-9f9f-4db6-876d-9a33c737c10b.png"></a>|
-|[Github page (README)](https://github.com/kjs29/nback) <br> [Game download](https://kjs29.itch.io/nback)|[Github page (README)](https://github.com/kjs29/dual_nback) <br> [Game download](https://kjs29.itch.io/dualnback)|[Website link](https://www.calgarymobilewills.ca)|[Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) <br> [Website link](http://kjs3980.pythonanywhere.com)|
+|[Github page (README)](https://github.com/kjs29/nback) <br> ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) [Game download](https://kjs29.itch.io/nback)|[Github page (README)](https://github.com/kjs29/dual_nback) <br> [Game download](https://kjs29.itch.io/dualnback)|[Website link](https://www.calgarymobilewills.ca)|[Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) <br> [Website link](http://kjs3980.pythonanywhere.com)|
 
 <br>
 
