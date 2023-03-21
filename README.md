@@ -1,14 +1,30 @@
 <div align="center" style="padding: 20px; margin: 20px;">
 
 # 😊 Hi, My name is Jinsung Kim
-
-<p>🌟 I am passionate about solving problems.</p>
-
-<p>👯 I’m looking to collaborate on any web projects.</p>
   
-<p>🌱 I’m currently learning web development.</p>
+## <em>"One great developer can do more than 1,000 developers"</em>
+
+### I think a great developer has abilities to 
+
+### 1. create a scalable product,
+  
+### 2. maintain the product,
+  
+### 3. talk about these in a simple way to non-technical people.
+  
+<p>🌟 I am passionate about solving problems. 🌟</p>
+
+<p>👯 I’m looking to collaborate on any web projects. 👯</p>
+  
+<p>💻 I’m currently learning web development. 💻</p>
+  
+<p>🔄 I'm currently learning about how to develop effectively.
+  
+  CI / CD & Testing, agile practices 🔄</p>
 
 ### Let's connect!
+
+I am happy to connect with anyone!
   
 <div align="center">
   <a href="https://www.linkedin.com/in/jinsungk/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
