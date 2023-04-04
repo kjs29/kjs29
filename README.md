@@ -16,11 +16,9 @@
 
 <p>👯 I’m looking to collaborate on any web projects. 👯</p>
   
-<p>💻 I’m currently learning web development. 💻</p>
+<p>💻 I’m currently learning JavaScript. 💻</p>
   
-<p>🔄 I'm currently learning about how to develop effectively.
-  
-  CI / CD & Testing, agile practices 🔄</p>
+<p>🔄 I'm currently learning about how to develop effectively 🔄</p>
 
 ### Let's connect!
 
