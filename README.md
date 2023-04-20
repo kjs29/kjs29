@@ -1,8 +1,6 @@
 <div align="center" style="padding: 20px; margin: 20px;">
 
 # 😊 Hi, My name is Jinsung Kim
-  
-## <em>"One great developer can do more than 1,000 developers"</em>
 
 ### I think a great developer has abilities to 
 
@@ -10,7 +8,7 @@
   
 ### 2. maintain the product,
   
-### 3. talk about these in a simple way to non-technical people.
+### 3. talk about these in a simple way.
   
 <p>🌟 I am passionate about solving problems. 🌟</p>
 
