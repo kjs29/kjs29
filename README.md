@@ -6,9 +6,9 @@
 
 ### 1. create a scalable product,
   
-### 2. maintain the product,
+### 2. maintain it,
   
-### 3. talk about these in a simple way.
+### 3. talk about these in both simple and technical ways.
   
 <p>🌟 I am passionate about solving problems. 🌟</p>
 
