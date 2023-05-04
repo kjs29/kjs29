@@ -1,6 +1,6 @@
 <div align="center" style="padding: 20px; margin: 20px;">
 
-# 😊 Hi, My name is Jinsung Kim
+### 😊 Hi, My name is Jinsung Kim
 
 ### I think a great developer has abilities to 
 
@@ -9,6 +9,18 @@
 ### 2. maintain it,
   
 ### 3. talk about these in both simple and technical ways.
+  
+---
+  
+I try to log my learning journey daily.
+
+[Python](https://github.com/kjs29/Python/)
+  
+[JavaScript](https://github.com/kjs29/JavaScript/)
+  
+[Django](https://github.com/kjs29/Django/)
+
+---
   
 <p>🌟 I am passionate about solving problems. 🌟</p>
 
