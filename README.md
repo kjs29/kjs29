@@ -14,22 +14,11 @@
   
 I try to log my learning journey daily.
 
-[Python](https://github.com/kjs29/Python/)
-  
-[JavaScript](https://github.com/kjs29/JavaScript/)
-  
-[Django](https://github.com/kjs29/Django/)
+[Python](https://github.com/kjs29/Python/), [JavaScript](https://github.com/kjs29/JavaScript/), [Django](https://github.com/kjs29/Django/)
 
+I write my blog on [Medium](https://medium.com/@jsk.jinsung/what-is-a-closure-in-javascript-691e194bc65c) too.
+  
 ---
-  
-<p>🌟 I am passionate about solving problems. 🌟</p>
-
-<p>👯 I’m looking to collaborate on any web projects. 👯</p>
-  
-<p>💻 I’m currently learning JavaScript. 💻</p>
-  
-<p>🔄 I'm currently learning about how to develop effectively 🔄</p>
-
 ### Let's connect!
 
 I am happy to connect with anyone!
