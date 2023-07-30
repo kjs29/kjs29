@@ -2,19 +2,11 @@
 
 ### 😊 Hi, My name is Jinsung Kim
 
-### I think a great developer has abilities to 
-
-### 1. create a scalable product,
-  
-### 2. maintain it,
-  
-### 3. talk about these in both simple and technical ways.
-  
 ---
   
-I try to log my learning journey daily.
+I aim to log my learning journey in different repositories,
 
-[Python](https://github.com/kjs29/Python/), [JavaScript](https://github.com/kjs29/JavaScript/), [Django](https://github.com/kjs29/Django/)
+[Data Structure & Algorithms](https://github.com/kjs29/DataStructures-Algorithms), [Python](https://github.com/kjs29/Python/), [JavaScript](https://github.com/kjs29/JavaScript/), [Django](https://github.com/kjs29/Django/)
 
 I write my blog on [Medium](https://medium.com/@jsk.jinsung/what-is-a-closure-in-javascript-691e194bc65c) too.
   
