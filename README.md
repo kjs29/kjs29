@@ -1,16 +1,13 @@
 <div align="center" style="padding: 20px; margin: 20px;">
 
 ### 😊 Hi, My name is Jinsung Kim
-
----
   
 I aim to log my learning journey in different repositories,
 
 [Data Structure & Algorithms](https://github.com/kjs29/DataStructures-Algorithms), [Python](https://github.com/kjs29/Python/), [JavaScript](https://github.com/kjs29/JavaScript/), [Django](https://github.com/kjs29/Django/)
 
 I write my blog on [Medium](https://medium.com/@jsk.jinsung/what-is-a-closure-in-javascript-691e194bc65c) too.
-  
----
+
 ### Let's connect!
 
 I am happy to connect with anyone!
@@ -23,23 +20,19 @@ I am happy to connect with anyone!
 <h2 align="left">My Tech Stack</h2>
   
 <div align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
 <br>
   
-<h2 align="left">My Projects</h2>
+<h2 align="left">My Projects (New to Old)</h2>
 
-| 🕹️ Brain puzzle game | 🎯 Brain puzzle game Ver.2 | 📝 Legal services business website | 🛏️ Social media platform|
+| 📈 Demystify Elliott Wave Theory | 📝 Demystify Doji Candlestick | 🎯 Brain puzzle game Ver.2 | 🕹️ Brain puzzle game |
 |---------|---------|---------|---------|
-|<em>Increase your IQ</em>|<em>Similar to the first game, with more controllable settings</em>|<em>Write your will, write your story</em>|<em>If you want to change the world, start off by making your bed!</em>|
-|<a href="https://github.com/kjs29/nback"><img width="400" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png"></a>|<a href="https://github.com/kjs29/dual_nback"><img width="400" alt="Screenshot 2022-12-16 at 5 19 31 AM" src="https://user-images.githubusercontent.com/96529477/208098017-426e2adf-437c-43aa-b909-900e7e3c045f.png"></a>|<a href="https://www.calgarymobilewills.ca"><img width="400" src="https://user-images.githubusercontent.com/96529477/223351110-b6e8828e-8af6-4361-8935-dabaa7b3866f.png" alt="calgarymobilewills home top"></a>|<a href="https://kjs3980.pythonanywhere.com"><img width="400" alt="make your bed in the morning screenshot homepage" src="https://user-images.githubusercontent.com/96529477/224619056-9fa31e50-9f9f-4db6-876d-9a33c737c10b.png"></a>|
-|[Github page (README)](https://github.com/kjs29/nback) <br>Download on <a href="https://kjs29.itch.io/nback"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a> |[Github page (README)](https://github.com/kjs29/dual_nback) <br> Download on <a href="https://kjs29.itch.io/dualnback"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a> |[Website link](https://www.calgarymobilewills.ca)|[Github page (README)](https://github.com/kjs29/how-to-make-a-social-media-website) <br> [Website link](http://kjs3980.pythonanywhere.com)|
+|<em>A Statiscial Analysis On Elliott Wave Theory</em>|<em>Is the Doji candlestick associated with trend reversal?</em>|<em>Supercharge Your Working Memory!</em>|<em>Improve Your Working Memory</em>|
+|<a href="https://github.com/kjs29/demystify-elliott-wave-theory"><img width="400" alt="statistical analysis on elliott wave theory" src="https://github.com/user-attachments/assets/d11eed6b-c970-4753-a3cb-3e439757a4f0"></a>|<a href="https://github.com/kjs29/demystify-doji-candlestick"><img width="400" src="https://github.com/user-attachments/assets/e738647c-8499-4299-9b46-e46aa6645878" alt="demystify doji candlestick"></a>|<a href="https://github.com/kjs29/dual_nback"><img width="400" alt="Screenshot 2022-12-16 at 5 19 31 AM" src="https://user-images.githubusercontent.com/96529477/208098017-426e2adf-437c-43aa-b909-900e7e3c045f.png"></a>|<a href="https://github.com/kjs29/nback"><img width="400" alt="Screenshot 2022-12-15 at 5 19 04 PM" src="https://user-images.githubusercontent.com/96529477/207994238-0635367d-a038-43d1-9bf9-0d5e2d864c72.png"></a>|
+|[Github page (README)](https://github.com/kjs29/demystify-elliott-wave-theory)|[Github page (README)](https://github.com/kjs29/demystify-doji-candlestick)|[Github page (README)](https://github.com/kjs29/dual_nback) <br> Download on <a href="https://kjs29.itch.io/dualnback"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>|[Github page (README)](https://github.com/kjs29/nback) <br>Download on <a href="https://kjs29.itch.io/nback"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a> |
 
 <br>
 
