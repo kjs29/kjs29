@@ -36,6 +36,9 @@ I am happy to connect with anyone!
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjs29&layout=pie)](https://github.com/kjs29)
+
+![](https://komarev.com/ghpvc/?username=kjs29&color=green)
 <!---
 kjs29/kjs29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
